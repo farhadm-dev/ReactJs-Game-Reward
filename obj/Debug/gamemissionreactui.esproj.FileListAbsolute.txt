@@ -1,0 +1,2 @@
+C:\Users\mah\source\repos\GameMissionReactUI\GameMissionReactUI\obj\Debug\gamemissionreactui.esproj.SuggestedBindingRedirects.cache
+C:\Users\mah\source\repos\GameMissionReactUI\GameMissionReactUI\obj\Debug\gamemissionreactui.esproj.CoreCompileInputs.cache
